@@ -22,10 +22,8 @@
 ```bash
 Name: Mehedi Hasan Antor
 Username: antor-mha
-Role: Python Developer | Linux User | Cybersecurity Learner
-OS: Ubuntu Linux
+OS: Windows Linux
 Focus: Automation | Networking | Ethical Hacking
-Goal: Master's in Japan 🇯🇵
 Status: Building. Learning. Improving.
 ```
 
@@ -97,7 +95,6 @@ Status: Building. Learning. Improving.
 [✔] Linux Power User
 [ ] Build 10+ Automation Projects
 [ ] Complete Cybersecurity Labs
-[ ] Move to Japan 🇯🇵
 ```
 
 ---
