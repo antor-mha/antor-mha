@@ -46,14 +46,6 @@ Status: Building. Learning. Improving.
 
 ---
 
-## 🧩 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antor-mha&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&count_private=true"/>
-</p>
-
----
-
 ## 📈 Contribution Activity Graph
 
 <p align="center">
@@ -85,17 +77,6 @@ Status: Building. Learning. Improving.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=antor-mha&label=PROFILE+VIEWS&color=00ff00&style=flat"/>
 </p>
-
----
-
-## 🎯 Current Mission
-
-```bash
-[✔] Master Python
-[✔] Linux Power User
-[ ] Build 10+ Automation Projects
-[ ] Complete Cybersecurity Labs
-```
 
 ---
 
